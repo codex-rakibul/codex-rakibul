@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
 <h3 align="center">I’m developer from Bogura, Bangladesh. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://github.com/codex-rakibul/codex-rakibul/blob/main/Programming.gif" alt="codex-rakibul" /> </p>
+<p align="left"> <img src="[https://github.com/codex-rakibul/codex-rakibul/blob/main/Programming.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" alt="codex-rakibul" /> </p>
 
 - 🔭 I’m currently working on [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
 
