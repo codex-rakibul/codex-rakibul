@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
 <h3 align="center">I’m developer from Bogura, Bangladesh. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
+
 <img align="right" alt="coding" width="300" src="https://github.com/codex-rakibul/codex-rakibul/blob/main/Programming.gif" alt="codex-rakibul">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-rakibul&label=Profile%20views&color=0e75b6&style=flat" alt="codex-rakibul" /> </p>
 
 - 🔭 I’m currently working on [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
 
