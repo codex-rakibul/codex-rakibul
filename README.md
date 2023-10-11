@@ -6,9 +6,6 @@
 
 <h3 align="left">I’m developer from  <img src="https://github.com/codex-rakibul/codex-rakibul/blob/main/bangladesh.png" width="13"/> <b>Bogura, Bangladesh</b>. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/codex-rakibul/codex-rakibul/blob/main/Programming.gif" alt="codex-rakibul">
-
-
 - 🔭 I’m currently working on [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
 
 <h3 align="left">Connect with me:</h3>
