@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
 <h3 align="center">I’m developer from Bogura, Bangladesh. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
 
