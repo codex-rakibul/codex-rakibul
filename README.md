@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/codex-rakibul/codex-rakibul/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
 <h3 align="left">I’m developer from Bogura, Bangladesh. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
 
