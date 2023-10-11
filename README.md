@@ -4,8 +4,7 @@
 
 <p align="left">Welcome to my page!</p>
 
-<h3 align="left">I’m developer from <img src="https://github.com/codex-rakibul/codex-rakibul/assets/101311653/df18fc56-1a00-47ab-b5f3-131bdba1161c
-" width="13"/> <b>Bogura, Bangladesh</b>. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
+<h3 align="left">I’m developer from <img src="" width="13"/> <b>Bogura, Bangladesh</b>. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
 
 <img align="right" alt="coding" width="300" src="https://github.com/codex-rakibul/codex-rakibul/blob/main/Programming.gif" alt="codex-rakibul">
 
