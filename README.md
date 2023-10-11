@@ -2,7 +2,7 @@
 <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p align="left">Welcome to my page!</p>
+<p align="left">Welcome to my github profile!</p>
 
 <h3 align="left">I’m developer from  <img src="https://github.com/codex-rakibul/codex-rakibul/blob/main/bangladesh.png" width="13"/> <b>Bogura, Bangladesh</b>. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
 
