@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="300" src="https://github.com/codex-rakibul/codex-rakibul/blob/main/Programming.gif" alt="codex-rakibul">
 
-<h3 align="left">Project:</h3>
+
 - 🔭 I’m currently working on [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
 
 <h3 align="left">Connect with me:</h3>
