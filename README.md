@@ -3,16 +3,17 @@
 <p align="left">Welcome to my github profile!</p>
 
 <h3 align="left">I’m developer from  <img src="https://github.com/codex-rakibul/codex-rakibul/blob/main/bangladesh.png" width="13"/> <b>Bogura, Bangladesh</b>. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
+
 <h2 align="left">Some projects link:</h2>
 
-- 📌 Themeforest project 3 'working' [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
+- 📌 Themeforest project 1 'working' [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
 - 📌 Themeforest project 2 [Donik](https://preview.themeforest.net/item/donik-charity-fundraising-html5-template/full_screen_preview/48251606?_ga=2.188382824.1755981974.1696659138-1052435909.1688898313)
-- 📌 Themeforest project 1 [EyeWell](https://preview.themeforest.net/item/eyewell-eyecare-optometrist-html5-template/full_screen_preview/47397907?_ga=2.83459414.1755981974.1696659138-1052435909.1688898313)
-- 📌 NextJs Project 3 'working' [SHOWZ](https://showz.vercel.app/)
+- 📌 Themeforest project 3 [EyeWell](https://preview.themeforest.net/item/eyewell-eyecare-optometrist-html5-template/full_screen_preview/47397907?_ga=2.83459414.1755981974.1696659138-1052435909.1688898313)
+- 📌 NextJs Project 1 'working' [SHOWZ](https://showz.vercel.app/)
 - 📌 NextJs Project 2 [Pension Wise](https://pension-wise.vercel.app/)
-- 📌 NextJs Project 1 [Cineplex](https://cineplex-eight.vercel.app/)
-- 📌 Android Project 2 [Addhayon](https://drive.google.com/file/d/1WWRYSqMqHnSjf-eng5twrRVsjigsc4tr/view?usp=sharing)
-- 📌 Android Project 1 [ChatZen](https://drive.google.com/file/d/1AR3zER1-SSY1q7h0b19-d-yYDRtW11gV/view?usp=drive_link)
+- 📌 NextJs Project 3 [Cineplex](https://cineplex-eight.vercel.app/)
+- 📌 Android Project 1 [Addhayon](https://drive.google.com/file/d/1WWRYSqMqHnSjf-eng5twrRVsjigsc4tr/view?usp=sharing)
+- 📌 Android Project 2 [ChatZen](https://drive.google.com/file/d/1AR3zER1-SSY1q7h0b19-d-yYDRtW11gV/view?usp=drive_link)
 - 📌 C Programming Project  [LOL Games, Cricket, WritersBook](https://github.com/codex-rakibul/C-Project)
 
 
