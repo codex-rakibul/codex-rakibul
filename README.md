@@ -1,4 +1,4 @@
-![logo](https://github.com/codex-rakibul/codex-rakibul/blob/main/banner-2.png)
+![logo](https://github.com/codex-rakibul/codex-rakibul/blob/main/banner.png)
 <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p align="left">Welcome to my github profile!</p>
 
