@@ -4,7 +4,7 @@
 
 <h3 align="left">I’m developer from  <img src="https://github.com/codex-rakibul/codex-rakibul/blob/main/bangladesh.png" width="13"/> <b>Bogura, Bangladesh</b>. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
 
-- 🔭 I’m currently working on Themeforest project 3 [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
+- 📌 I’m currently working on Themeforest project 3 [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
 - 📌 Themeforest project 2 [Donik](https://preview.themeforest.net/item/donik-charity-fundraising-html5-template/full_screen_preview/48251606?_ga=2.188382824.1755981974.1696659138-1052435909.1688898313)
 - 📌 Themeforest project 1 [EyeWell](https://preview.themeforest.net/item/eyewell-eyecare-optometrist-html5-template/full_screen_preview/47397907?_ga=2.83459414.1755981974.1696659138-1052435909.1688898313)
 
