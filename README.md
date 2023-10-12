@@ -6,15 +6,15 @@
 
 <h2 align="left">Some projects link:</h2>
 
-- 📌 Themeforest project 1 'working' [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
-- 📌 Themeforest project 2 [Donik](https://preview.themeforest.net/item/donik-charity-fundraising-html5-template/full_screen_preview/48251606?_ga=2.188382824.1755981974.1696659138-1052435909.1688898313)
-- 📌 Themeforest project 3 [EyeWell](https://preview.themeforest.net/item/eyewell-eyecare-optometrist-html5-template/full_screen_preview/47397907?_ga=2.83459414.1755981974.1696659138-1052435909.1688898313)
-- 📌 NextJs Project 1 'working' [SHOWZ](https://showz.vercel.app/)
-- 📌 NextJs Project 2 [Pension Wise](https://pension-wise.vercel.app/)
-- 📌 NextJs Project 3 [Cineplex](https://cineplex-eight.vercel.app/)
-- 📌 Android Project 1 [Addhayon](https://drive.google.com/file/d/1WWRYSqMqHnSjf-eng5twrRVsjigsc4tr/view?usp=sharing)
-- 📌 Android Project 2 [ChatZen](https://drive.google.com/file/d/1AR3zER1-SSY1q7h0b19-d-yYDRtW11gV/view?usp=drive_link)
-- 📌 C Programming Project  [LOL Games, Cricket, WritersBook](https://github.com/codex-rakibul/C-Project)
+- 📌 Themeforest project 'working' [RouteHaven](https://boomdevstheme.com/tf/html/routehaven/index.html)
+- 📌 Themeforest project [Donik](https://preview.themeforest.net/item/donik-charity-fundraising-html5-template/full_screen_preview/48251606?_ga=2.188382824.1755981974.1696659138-1052435909.1688898313)
+- 📌 Themeforest project [EyeWell](https://preview.themeforest.net/item/eyewell-eyecare-optometrist-html5-template/full_screen_preview/47397907?_ga=2.83459414.1755981974.1696659138-1052435909.1688898313)
+- 📌 NextJs Project 'working' [SHOWZ](https://showz.vercel.app/)
+- 📌 NextJs Project [Pension Wise](https://pension-wise.vercel.app/)
+- 📌 NextJs Project [Cineplex](https://cineplex-eight.vercel.app/)
+- 📌 Android Project [Addhayon](https://drive.google.com/file/d/1WWRYSqMqHnSjf-eng5twrRVsjigsc4tr/view?usp=sharing)
+- 📌 Android Project [ChatZen](https://drive.google.com/file/d/1AR3zER1-SSY1q7h0b19-d-yYDRtW11gV/view?usp=drive_link)
+- 📌 C Programming Project [LOL Games, Cricket, WritersBook](https://github.com/codex-rakibul/C-Project)
 
 
 <h2 align="left">Connect with me:</h2>
