@@ -12,6 +12,7 @@
 - 📌 NextJs Project "running..." [SHOWZ](https://showz.vercel.app/)
 - 📌 NextJs Project [Pension Wise](https://pension-wise.vercel.app/)
 - 📌 NextJs Project [Cineplex](https://cineplex-eight.vercel.app/)
+- 📌 ReatJs Project [EX3 Academy](https://lerning-ms-beta.netlify.app/)
 - 📌 Android Project [Addhayon](https://drive.google.com/file/d/1WWRYSqMqHnSjf-eng5twrRVsjigsc4tr/view?usp=sharing)
 - 📌 Android Project [ChatZen](https://drive.google.com/file/d/1AR3zER1-SSY1q7h0b19-d-yYDRtW11gV/view?usp=drive_link)
 - 📌 C Programming Project [LOL Games, Cricket, WritersBook](https://github.com/codex-rakibul/C-Project)
