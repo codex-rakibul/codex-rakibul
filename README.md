@@ -6,19 +6,19 @@
 
 <h2 align="left">Some live projects link:</h2>
 
-- ⭐ Themeforest project "WordPress Theme" "running..." [Donik](https://donik.boomdevstheme.com/)
-- ⭐ Themeforest project "WordPress Theme" "running..." [RouteHaven](https://routehaven.boomdevstheme.com/)
-- ⭐ Themeforest project "WordPress Theme" [Hivency](https://preview.themeforest.net/item/hivency-creative-digital-agency-wordpress-theme/full_screen_preview/49251764)
-- ⭐ Themeforest project "HTML5 Template" [RouteHaven](https://preview.themeforest.net/item/routehaven-travel-tour-booking-html5-template/full_screen_preview/48456553?_ga=2.221992536.1755981974.1696659138-1052435909.1688898313)
-- ⭐ Themeforest project "HTML5 Template" [Donik](https://preview.themeforest.net/item/donik-charity-fundraising-html5-template/full_screen_preview/48251606?_ga=2.188382824.1755981974.1696659138-1052435909.1688898313)
-- ⭐ Themeforest project "HTML5 Template" [EyeWell](https://preview.themeforest.net/item/eyewell-eyecare-optometrist-html5-template/full_screen_preview/47397907?_ga=2.83459414.1755981974.1696659138-1052435909.1688898313)
-- 📌 NextJs Project "running..." [SHOWZ](https://showz.vercel.app/)
-- 📌 NextJs Project [Pension Wise](https://pension-wise.vercel.app/)
-- 📌 NextJs Project [Cineplex](https://cineplex-eight.vercel.app/)
-- 📌 ReatJs Project "running..." [EX3 Academy](https://lerning-ms-beta.netlify.app/)
-- 📌 Android Project [Addhayon](https://drive.google.com/file/d/1WWRYSqMqHnSjf-eng5twrRVsjigsc4tr/view?usp=sharing)
-- 📌 Android Project [ChatZen](https://drive.google.com/file/d/1AR3zER1-SSY1q7h0b19-d-yYDRtW11gV/view?usp=drive_link)
-- 📌 C Programming Project [LOL Games, Cricket, WritersBook](https://github.com/codex-rakibul/C-Project)
+- 🎀 Themeforest project "WordPress Theme" "running..." [Donik](https://donik.boomdevstheme.com/)
+- 🎀 Themeforest project "WordPress Theme" "running..." [RouteHaven](https://routehaven.boomdevstheme.com/)
+- 🎀 Themeforest project "WordPress Theme" [Hivency](https://preview.themeforest.net/item/hivency-creative-digital-agency-wordpress-theme/full_screen_preview/49251764)
+- 🎀 Themeforest project "HTML5 Template" [RouteHaven](https://preview.themeforest.net/item/routehaven-travel-tour-booking-html5-template/full_screen_preview/48456553?_ga=2.221992536.1755981974.1696659138-1052435909.1688898313)
+- 🎀 Themeforest project "HTML5 Template" [Donik](https://preview.themeforest.net/item/donik-charity-fundraising-html5-template/full_screen_preview/48251606?_ga=2.188382824.1755981974.1696659138-1052435909.1688898313)
+- 🎀 Themeforest project "HTML5 Template" [EyeWell](https://preview.themeforest.net/item/eyewell-eyecare-optometrist-html5-template/full_screen_preview/47397907?_ga=2.83459414.1755981974.1696659138-1052435909.1688898313)
+- 🎗️ NextJs Project "running..." [SHOWZ](https://showz.vercel.app/)
+- 🎗️ NextJs Project [Pension Wise](https://pension-wise.vercel.app/)
+- 🎗️ NextJs Project [Cineplex](https://cineplex-eight.vercel.app/)
+- 🎗️ ReatJs Project "running..." [EX3 Academy](https://lerning-ms-beta.netlify.app/)
+- 🎗️ Android Project [Addhayon](https://drive.google.com/file/d/1WWRYSqMqHnSjf-eng5twrRVsjigsc4tr/view?usp=sharing)
+- 🎗️ Android Project [ChatZen](https://drive.google.com/file/d/1AR3zER1-SSY1q7h0b19-d-yYDRtW11gV/view?usp=drive_link)
+- 🎗️ C Programming Project [LOL Games, Cricket, WritersBook](https://github.com/codex-rakibul/C-Project)
 
 
 <h2 align="left">Connect with me:</h2>
