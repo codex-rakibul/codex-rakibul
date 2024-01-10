@@ -4,6 +4,8 @@
 
 <h3 align="left">I’m developer from  <img src="https://github.com/codex-rakibul/codex-rakibul/blob/main/bangladesh.png" width="13"/> <b>Bogura, Bangladesh</b>. Good Knowledge in Frontend and Backend development. Built a few projects like android and web application. I love time spending for problems solving or any New project. And also like to work with team.</h3>
 
+<a href="https://rakibulislam-sony.vercel.app/" target="blank"><h3> See more details about me  ➽ </h3></a>
+
 <h2 align="left">Some live projects link:</h2>
 
 - 🎀 Themeforest project "WordPress Theme" "running..." [Rinse](https://rinse.boomdevstheme.com/)
